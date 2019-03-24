@@ -1,4 +1,4 @@
-def new-array(array)
+def new_array(array)
   array = []
   
 end  
